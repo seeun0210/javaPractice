@@ -1,4 +1,4 @@
-package ch17;
+package chapter02_ch17;
 
 public class BreakTest {
     public static void main(String[] args) {

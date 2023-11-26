@@ -1,4 +1,4 @@
-package ch16;
+package chapter02_ch16;
 
 public class NestedLoopTest {
     public static void main(String[] args) {
