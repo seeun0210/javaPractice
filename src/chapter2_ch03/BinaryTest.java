@@ -1,4 +1,4 @@
-package ch03;
+package chapter2_ch03;
 
 public class BinaryTest {
     public static void main(String[] args) {

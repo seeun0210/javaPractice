@@ -1,4 +1,4 @@
-package ch01;
+package chatper2_ch01;
 
 public class HelloWorld {
     public static void main(String[] args) {
